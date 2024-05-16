@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Tarikul-Tuhin
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking forward to collaborating with Flutter Developers
+- 👀 I’m a professional Software Engineer
+- 💞️ Looking forward to collaborating with amazing Developers
 - 📫 How to reach me (via Linked in : https://www.linkedin.com/in/tarikul-islam-a2785118a/)
 
 <!---
